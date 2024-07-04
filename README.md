@@ -42,7 +42,7 @@ This Banking Application is designed to handle basic banking operations such as 
 ## Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](main/images/admin_dashboard.png)
+![Admin Dashboard](images/admin_dashboard.png)
 
 ### Customer Registration
 ![Customer Registration](images/customer_registration.png)
